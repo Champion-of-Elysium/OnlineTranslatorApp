@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164279093172",
+    "project_id": "online-translator-app",
+    "storage_bucket": "online-translator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164279093172:android:66b9d22f22adcc2e5e94e1",
+        "android_client_info": {
+          "package_name": "ir.shariaty.onlinetranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164279093172-484l7m6g0j0mjhjhe3ejk7rusqn3cbht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbP4oetyZkpt47Mca812OaZZRfyFRl3sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164279093172-484l7m6g0j0mjhjhe3ejk7rusqn3cbht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
