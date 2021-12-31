@@ -86,7 +86,7 @@
                     android:layout_height="match_parent"
                     android:background="#fefefe">
 
-                    <Spinner
+                    <com.skydoves.powerspinner.PowerSpinnerView
                         android:id="@+id/sourcel"
                         android:layout_width="110dp"
                         android:layout_height="30dp"
@@ -98,7 +98,7 @@
                         app:layout_constraintTop_toTopOf="parent" />
 
                     <ImageView
-                        android:id="@+id/imageView3"
+                        android:id="@+id/Switch"
                         android:layout_width="35dp"
                         android:layout_height="35dp"
                         android:layout_marginStart="24dp"
@@ -109,7 +109,7 @@
                         app:layout_constraintStart_toEndOf="@+id/sourcel"
                         app:layout_constraintTop_toTopOf="parent" />
 
-                    <Spinner
+                    <com.skydoves.powerspinner.PowerSpinnerView
                         android:id="@+id/destinationl"
                         android:layout_width="110dp"
                         android:layout_height="30dp"
